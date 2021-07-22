@@ -7,3 +7,7 @@ Strategies:
 1. Using Pomodoro breaks even when I am working on projects during my free time
 
 2. Doing some form of exercise daily, even if that is just a walk around the block.
+
+Shoutout:
+
+My mom has been encouraging me, and telling me stories of going back to school and doing well even in her 40s, which makes me feel like I will be successful at Turing.
