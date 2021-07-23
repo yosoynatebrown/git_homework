@@ -11,5 +11,3 @@ Strategies:
 Shoutout:
 
 My mom has been encouraging me, and telling me stories of going back to school and doing well even in her 40s, which makes me feel like I will be successful at Turing.
-
-I have lots of thoughts, like this one for example.
